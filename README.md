@@ -3,7 +3,7 @@ The project was to make a Quadrupedal robot (Robot dog). Each leg would have 3
 servos, each being controlled with its own PWM and timers. Interrupt is used on
 a button on the bottom of the feet to indicate when the leg has touched the
 ground. The Robot could walk forward and backward through the
-press of another button. There are two versions of the code. Written in Python and C. Code Written in Python was developed for Raspberry Pi 3. C was developed for the TI MSP432R microcontroller.
+press of another button. There are two versions of the code at different stages. Written in Python and C. Code Written in Python was developed for Raspberry Pi 3. C was developed for the TI MSP432R microcontroller.
 
 <img width="737" alt="2dog" src="https://github.com/FarhanAli24/Quadrupedal_Robot/assets/146472794/b352984d-0b9f-45d7-ba11-7832d820f837">
 <img width="609" alt="1dog" src="https://github.com/FarhanAli24/Quadrupedal_Robot/assets/146472794/20407e5a-6aaa-4ae3-8c44-e3eb93ea9b64">
